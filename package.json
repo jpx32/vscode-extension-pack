@@ -1,10 +1,10 @@
 {
-  "name": "university-coding",
-  "displayName": "University Coding",
-  "description": "A great coding pack to help get you started with coding in college! ",
+  "name": "cave-pack",
+  "displayName": "Cave Pack",
+  "description": "An extension pack with amazing functionality. Made mainly for college students.",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.72.0"
+    "vscode": "^1.73.0"
   },
   "categories": [
     "Extension Packs"
@@ -35,6 +35,8 @@
     "EditorConfig.EditorConfig", 
     "eg2.vscode-npm-script", 
     "esbenp.prettier-vscode", 
+    "felipecaputo.git-project-manager", 
+    "firefox-devtools.vscode-firefox-debug", 
     "formulahendry.auto-close-tag", 
     "formulahendry.auto-rename-tag", 
     "GitHub.github-vscode-theme", 
@@ -48,7 +50,9 @@
     "loiane.angular-extension-pack", 
     "ms-azuretools.vscode-docker", 
     "MS-CEINTL.vscode-language-pack-zh-hans", 
+    "ms-edgedevtools.vscode-edge-devtools", 
     "ms-kubernetes-tools.vscode-kubernetes-tools", 
+    "ms-python.isort", 
     "ms-python.python", 
     "ms-python.vscode-pylance", 
     "ms-toolsai.jupyter", 
@@ -61,6 +65,7 @@
     "ms-vscode.cpptools", 
     "ms-vscode.cpptools-extension-pack", 
     "ms-vscode.cpptools-themes", 
+    "ms-vscode.makefile-tools", 
     "ms-vscode.remote-repositories", 
     "ms-vsliveshare.vsliveshare", 
     "ms-vsliveshare.vsliveshare-audio", 
