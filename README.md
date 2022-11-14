@@ -1,8 +1,8 @@
-# Welcome to your VS Code Extension Pack
+# Welcome to my VS Code Extension Pack
 
 ## What's in the folder
 
-* This folder contains all of the files necessary for your extension pack.
+* This folder contains all of the files necessary for this extension pack.
 * `package.json` - this is the manifest file that defines the list of extensions of the extension pack.
 
 ## Get up and running straight away
@@ -15,7 +15,6 @@
 * You can relaunch the extension from the debug toolbar after making changes to the files listed above.
 * You can also reload (`Ctrl+R` or `Cmd+R` on Mac) the VS Code window with your extension to load your changes.
 
-## Install your extension
+## Install the extension
 
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+* To start using this extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
